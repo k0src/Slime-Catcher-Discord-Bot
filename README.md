@@ -1,4 +1,4 @@
-# Slime Catcher
+# Slime Catcher 🦠
 
 Slime Catcher is an open-source fun Discord bot template where you can catch, breed, and duel with slimes!
 
