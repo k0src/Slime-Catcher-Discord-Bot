@@ -23,7 +23,7 @@ Slime Catcher is an open-source fun Discord bot template where you can catch, br
 - `?sell all [rarity]`: Sell all slimes in your inventory. Optionally, specify a rarity to sell only slimes of that rarity.
 - `gamble [amount]`: Gamble coins. Optionally, specify an amount to gamble.
 - `?shop`: View available items in the shop.
-    - `?buy`: Buy an item from the shop.
+    - `?buy [item name]`: Buy an item from the shop.
 - `?inventory`: View your inventory of items.
 - `?schelp`: Display the help menu.
 
